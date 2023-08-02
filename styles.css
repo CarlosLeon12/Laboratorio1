@@ -1,0 +1,46 @@
+
+.Principal {
+    display: flex;
+    padding: 0;
+}
+
+.sidebar a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: #000;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+    margin-left: 150px;
+}
+
+.Menu {
+    display: flex;
+    padding: 100px;
+    margin-bottom: 20PX;
+    
+}
+
+.platillos {
+    display: flex;
+    flex-direction: column;
+    margin-right: 25px;
+}
+
+.platillos label {
+    margin-bottom: 5px;
+}
+
+.imagen {
+    text-align: center;
+    justify-content: center;
+}
+
+.imagen img {
+    width: 250px;
+    height: 250px;
+}
